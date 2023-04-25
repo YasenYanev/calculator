@@ -1,3 +1,3 @@
 # Calculator project
 
-[Live preview](https://yasenyanev.github.io/calculator/)
+[Preview](https://yasenyanev.github.io/calculator/)
